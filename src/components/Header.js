@@ -5,8 +5,8 @@ import { faGlobeAfrica } from '@fortawesome/free-solid-svg-icons';
 const Header = () => {
     return (
         <header>
-            <FontAwesomeIcon icon={faGlobeAfrica} transform='grow-40'/> 
-            <h1>my travel journal</h1>
+            <FontAwesomeIcon icon={faGlobeAfrica} transform='grow-25'/> 
+            <h3>my travel journal</h3>
         </header>
     );
 }
